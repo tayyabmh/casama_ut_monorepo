@@ -14,7 +14,7 @@ Our platform empowered users to authenticate using a Soulbound token implementat
 ### Prerequisites
 - [Node.js](https://nodejs.org/)
 - [Airtable Account](https://airtable.com/)
-- [Soulbound Token Implementation](#) (Link to the Soulbound token repository)
+- [Soulbound Token Implementation](#) (https://github.com/tayyabmh/casama_sbt)
 
 ### Installation
 1. Clone the repository:
